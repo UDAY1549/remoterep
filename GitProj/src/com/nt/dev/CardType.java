@@ -5,7 +5,13 @@ public class CardType {
 	String MasterCard;
 	String VissaCard;
 
-	// generate getter and setter methods
+	//i want generate toString method
+	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
 
 	
 }
