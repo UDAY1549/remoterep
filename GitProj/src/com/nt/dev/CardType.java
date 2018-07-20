@@ -2,5 +2,10 @@ package com.nt.dev;
 
 public class CardType {
 	
+	String MasterCard;
+	String VissaCard;
+	
+	
+	
 
 }
