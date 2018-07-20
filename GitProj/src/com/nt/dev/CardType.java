@@ -4,6 +4,7 @@ public class CardType {
 
 	String MasterCard;
 	String VissaCard;
+
 	
 	// generate getter and setter methods
 	
